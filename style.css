@@ -1,25 +1,22 @@
-body
-{
-	width:1024px;
-	margin: 0 auto;
-  font-family: 'Raleway', sans-serif;
-	
+body {
+  width:1024px;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;	
 }
 .navigation li {
-	display: inline-block;
-	height:15px;
+  display: inline-block;
+  height:15px;
   margin-right:25px;
   text-align:center;
-  font-size:20px;
-  
+  font-size:20px; 
 }
-.navigation{
+.navigation {
   background-color:white;
 }
-a{
+a {
   text-decoration:none;
 }
- a:hover {
+a:hover {
     color: red; 
 }
 #name {
@@ -29,7 +26,7 @@ a{
   height: 700px;
   width: 100%;
 }
-#name h1{
+#name h1 {
   position:relative;
   top:550px;
   background-color:white;
@@ -37,7 +34,7 @@ a{
   font-size:50px;
   text-align:right;
 }
-#name h3{
+#name h3 {
   position:relative;
   top:530px;
   background-color:white;
@@ -45,11 +42,10 @@ a{
   font-size:30px;
   text-align:right;
 }
-
-.contacts div{
+.contacts div {
   width:450px;
   display:inline-block;
 }
-.code img{
+.code img {
   height:500px;
 }
